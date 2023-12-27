@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/design-best-practices-in-net-c-8e37b7c3500a?sk=555c245874bbd3333feaabf54445cddc" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/design-best-practices-in-net-c" />
 
 # Design Best Practices In .NET C#
 ### Some Design Best Practices to follow in .NET C#
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*SS8Bq9f9iyVYIyjGQwyEgA.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_3a732f432dfb4285ad0cde8c9ca3137a~mv2.png">
 </p>
 
 <br/>
@@ -59,4 +59,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/design-best-practices-in-net-c-8e37b7c3500a?sk=555c245874bbd3333feaabf54445cddc
+[Article]: https://www.developmentsimplyput.com/post/design-best-practices-in-net-c
